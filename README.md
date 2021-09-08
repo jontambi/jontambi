@@ -18,7 +18,8 @@
 <code><img height="20" src="assets/openshift.svg"></code>
 <code><img height="20" src="assets/docker.svg"></code>
 <code><img height="20" src="assets/Azure-DevOps.svg"></code>
-<code><img height="20" src="assets/argocd.svg"></code>
+<code><img height="20" src="assets/argo.svg"></code>
+<code><img height="20" src="assets/jenkins.svg"></code>
 <code><img height="20" src="assets/nginx.svg"></code>
 <code><img height="20" src="assets/terraformio.svg"></code>
 <code><img height="20" src="assets/ansible.svg"></code>
