@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am John Tambi, a passionate self-taught Cloud Engineer.
+<a href="https://discord.gg/wfJAHVmU">
+  <img align="left" alt="John's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jontambi/">
+  <img align="left" alt="John's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **jontambi/jontambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
