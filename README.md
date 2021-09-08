@@ -9,7 +9,7 @@ I am John Tambi, a passionate self-taught Cloud Engineer, with a great command i
 </a>
 <br />
 <br />
-- 💼 any freelance work? do reach, [email](mailto:jon.tambi@gmail.com) :alien:
+- 💼 any freelance work? you can reach me, [email: jon.tambi@gmail.com] :alien:
 <br />
 - 💬 ask me about anything, I am happy to help
 <br />
