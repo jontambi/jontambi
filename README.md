@@ -7,9 +7,16 @@ I am John Tambi, a passionate self-taught Cloud Engineer, with a great command i
 <a href="https://www.linkedin.com/in/jontambi/">
   <img align="left" alt="John's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br />
+<br />
 - 💼 any freelance work? do reach, [email](mailto:jon.tambi@gmail.com) :alien:
+<br />
 - 💬 ask me about anything, I am happy to help
+<br />
+<br />
+**Tools and Technologies:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <!--
 **jontambi/jontambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
