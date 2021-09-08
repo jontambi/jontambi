@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am John Tambi, a passionate self-taught Cloud Engineer.
+I am John Tambi, a passionate self-taught Cloud Engineer, with a great command in Linux systems and infrastructure provisioning. I enjoy testing existing technologies and always willing to learn and master new technologies.
+
 <a href="https://discord.gg/wfJAHVmU">
   <img align="left" alt="John's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -7,6 +8,8 @@ I am John Tambi, a passionate self-taught Cloud Engineer.
   <img align="left" alt="John's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+- 💼 any freelance work? do reach, [email](mailto:jon.tambi@gmail.com) :alien:
+- 💬 ask me about anything, I am happy to help
 <!--
 **jontambi/jontambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
