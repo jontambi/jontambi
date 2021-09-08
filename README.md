@@ -14,6 +14,16 @@
 <br />
 **Tools and Technologies:**
 
+<code><img height="20" src="assets/kubernetes.svg"></code>
+<code><img height="20" src="assets/openshift.svg"></code>
+<code><img height="20" src="assets/docker.svg"></code>
+<code><img height="20" src="assets/Azure-DevOps.svg"></code>
+<code><img height="20" src="assets/argocd.svg"></code>
+<code><img height="20" src="assets/nginx.svg"></code>
+<code><img height="20" src="assets/terraformio.svg"></code>
+<code><img height="20" src="assets/ansible.svg"></code>
+<code><img height="20" src="assets/vagrantup.svg"></code>
+<code><img height="20" src="assets/bash.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <!--
 <a href="https://discord.gg/wfJAHVmU">
